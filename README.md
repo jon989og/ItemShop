@@ -1,12 +1,12 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 1500
+CID_083_Athena_Commando_F_Tactical, 1500
+CID_033_Athena_Commando_F_Medieval, 1200
 na
 na
 na
-MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
-EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
+Pickaxe_ID_328_GalileoRocket_SNC0L, 800
+Glider_ID_045_CarbideBlack, 1200
+CID_202_Athena_Commando_F_DesertOps, 800
+LSID_178_BlackMonday_S815X, 300
+LSID_007_TacticalCommando, 300
+Pickaxe_ID_243_DJRemix, 500
